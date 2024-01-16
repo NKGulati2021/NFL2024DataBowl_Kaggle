@@ -3,6 +3,8 @@ Code and data used for the Kaggle 2024 NFL Data Bowl Competition
 
 Link to the competition information page: https://www.kaggle.com/competitions/nfl-big-data-bowl-2024
 
+Link to datasets that were provided: https://www.kaggle.com/competitions/nfl-big-data-bowl-2024/data
+
 Link to my competition submission: https://www.kaggle.com/code/neilgulati/nfl2024databowlsubmission-neilgulatitomkoch
 
 In the notebook that was submitted all code, data files (both supplied and generated), and writeup is included.
