@@ -7,7 +7,7 @@ Link to datasets that were provided: https://www.kaggle.com/competitions/nfl-big
 
 Link to my competition submission: https://www.kaggle.com/code/neilgulati/nfl2024databowlsubmission-neilgulatitomkoch
 
-In the notebook that was submitted all code, data files (both supplied and generated), and writeup is included.
+In the notebook that was submitted all code and a writeup is included.
 
 The goal was to generate actionable insights from a coaching perspective with an emphasis on tackling. For each frame of each play, I performed clustering methods and analyzed the concentration of offensive and defensive players within a cluster around the ball over time. Additionally, I developed new metrics such as snap-to-tackle time, average tackler acceleration, and average tackler speed. 
 
